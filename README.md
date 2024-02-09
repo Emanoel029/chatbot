@@ -1,7 +1,7 @@
 # ChatBot #
 
 <p>O projeto do ChatBot criado com a API da openIa. As tech usadas foram HTML 'responsivo', CSS e JavaScript. 
-OBS: O chat não está respondendo poque tem que PAGAR existe uma cota para plano gratuito, porém expirou com nos testes que eu fiz no desenvolvimento do programa! Foi bem desafiador e empolgante produzir esse programa.</p>
+OBS: O chat não está respondendo poque tem que PAGAR existe uma cota para plano gratuito, que expirou com nos testes que eu fiz no desenvolvimento do programa e como é intrumento de estudo não é viável pagar. Foi bem desafiador e empolgante produzir esse programa.</p>
 
 confira: https://emanoel029.github.io/chatbot/
 
